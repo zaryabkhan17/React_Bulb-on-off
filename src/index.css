@@ -1,0 +1,23 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.On{
+  background-color: rgb(255, 255, 0);
+}
+.Off{
+  background-color: rgb(93, 87, 0);
+}
+.button{
+  background-color: rgb(255, 45, 45);
+  width: 100px;
+  height: 50px;
+  margin-top: 20%;
+  
+}
+.onoff{
+  width: 1350px;
+  height: 600px;
+  text-align: center;
+}
+
