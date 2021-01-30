@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_Bulb-on-off/static/css/main.9bb56428.chunk.css",
+    "main.js": "/React_Bulb-on-off/static/js/main.3440b811.chunk.js",
+    "main.js.map": "/React_Bulb-on-off/static/js/main.3440b811.chunk.js.map",
+    "runtime-main.js": "/React_Bulb-on-off/static/js/runtime-main.e1ca1d2e.js",
+    "runtime-main.js.map": "/React_Bulb-on-off/static/js/runtime-main.e1ca1d2e.js.map",
+    "static/js/2.c6103ed2.chunk.js": "/React_Bulb-on-off/static/js/2.c6103ed2.chunk.js",
+    "static/js/2.c6103ed2.chunk.js.map": "/React_Bulb-on-off/static/js/2.c6103ed2.chunk.js.map",
+    "index.html": "/React_Bulb-on-off/index.html",
+    "static/css/main.9bb56428.chunk.css.map": "/React_Bulb-on-off/static/css/main.9bb56428.chunk.css.map",
+    "static/js/2.c6103ed2.chunk.js.LICENSE.txt": "/React_Bulb-on-off/static/js/2.c6103ed2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1ca1d2e.js",
+    "static/js/2.c6103ed2.chunk.js",
+    "static/css/main.9bb56428.chunk.css",
+    "static/js/main.3440b811.chunk.js"
+  ]
+}
